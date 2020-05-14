@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/joaopaulogse",
   siteMetadata: {
     title: `Full Stack Developer João Paulo`,
     description: `Node.js, TypeScript, React, Vue, Docker, Kubernetes, Microservices`,
